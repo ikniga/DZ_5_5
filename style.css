@@ -1,0 +1,111 @@
+body{
+	width: 760px;
+	height: 1689px;
+	margin:0px;
+	padding:0px;
+
+}
+.fullwrap{
+ 	width: 760px;
+	height: 1689px;
+ 	border: 2px solid grey;
+ 	background: #d1d1d1;
+}
+.wrap{
+	height: 1520px;
+	width: 640px;
+	margin: 57px;
+	background: white;
+}
+img{
+	height: 150px;
+	size: 100% 100%;
+}
+.text{
+	height: 265px;
+	margin:50px;
+	margin-bottom: 30px;
+}
+p{
+	font-family: Tahoma normal;
+	font-size: 18px;
+}
+img.proposition{
+	display: inline-block;
+	float: left;
+	width:255px;
+	height:214px;
+	padding:0px;
+	margin-bottom: 15px;
+}
+div.proposition{
+	width: 540px;
+	margin: 50px;
+	padding: 0px;
+}
+#a1,#a2{
+	display:inline-block;
+	width: 255px;
+	height: 383px;
+	margin: 0px;
+	position: relative;
+}
+#a1{
+	float: left;
+}
+#a2{
+	float: right;
+}
+button{
+	border: none;
+	border-radius: 10px;
+	position:absolute;
+	background: #cf5b4e;
+}
+button.one{
+	width: 255px;
+	height: 40px;
+}
+#a3,#a4,#a5{
+	display:inline-block;
+	width: 160px;
+	height: 375px;
+	position: relative;
+}
+img.proposition1{
+	display: inline-block;
+	float: left;
+	padding:0px;
+	width: 160px;
+	height: 210px;
+    margin-bottom: 15px;
+}
+#a4{
+	margin-left: 28px;
+	margin-right: 28px;
+}
+
+#a5{
+	float: right;
+}
+.clearfix:after {
+	content		: ".";
+	display		: block;
+	height		: 0;
+	clear		: both;
+}
+button.two{
+	width: 160px;
+	height: 40px;
+}
+button.three{
+	width: 540px;
+	height: 40px;
+}
+.footer{
+	width: 640px;
+	background: white;
+}
+.signature{
+	margin-bottom: 60px;
+}
