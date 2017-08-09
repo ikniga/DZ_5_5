@@ -84,15 +84,8 @@ img.proposition1{
 	margin-left: 28px;
 	margin-right: 28px;
 }
-
 #a5{
 	float: right;
-}
-.clearfix:after {
-	content		: ".";
-	display		: block;
-	height		: 0;
-	clear		: both;
 }
 button.two{
 	width: 160px;
