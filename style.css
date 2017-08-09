@@ -56,11 +56,17 @@ div.proposition{
 #a2{
 	float: right;
 }
+p.proposition{
+	margin-bottom: 40px;
+}
 button{
 	border: none;
 	border-radius: 10px;
 	position:absolute;
 	background: #cf5b4e;
+	color: white;
+	font-size:medium;
+	font-weight:bold;
 }
 button.one{
 	width: 255px;
