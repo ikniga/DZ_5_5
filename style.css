@@ -35,7 +35,7 @@ img.proposition{
 }
 div.proposition{
 	width: 540px;
-	margin: 50px;
+	margin: 50px 50px 0px;
 	padding: 0px;
 }
 #a1,#a2{
@@ -95,4 +95,22 @@ button.three{
 }
 .signature{
 	margin-bottom: 60px;
+}
+footer{
+	width: 540px;
+	margin:auto;
+}
+footer p {
+	color: #fff;
+	font-size: 13px;
+	margin-top: auto;
+	text-align: center;
+	margin-top: 25px;
+}
+footer a {
+	display: block;
+	margin: auto;
+	width: 60px;
+	font-size: 11px;
+	color:#fff;
 }
